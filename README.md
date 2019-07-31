@@ -3,7 +3,7 @@ Raspberry pi based music visualizer for 16x2 character display written in python
 
 ## Demo
 
-![display demo](assets/display_test.gif)883ed75f8eee2d9c83091fa2c0cc742a245b17b7
+![display demo](assets/display_test.gif)
 
 ![console demo](assets/console_test.gif)
 
